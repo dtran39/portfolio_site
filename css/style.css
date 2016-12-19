@@ -1,0 +1,15 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #676858;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    background-color: #999999;
+}
+
+.title-logo {
+	width: 110px;
+	margin-top: 20px;
+}
