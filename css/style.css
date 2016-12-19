@@ -13,3 +13,15 @@ hr {
 	width: 110px;
 	margin-top: 20px;
 }
+
+
+.project-container {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.project {
+	width: 33%;
+	padding: 10px;
+}
