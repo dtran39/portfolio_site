@@ -25,6 +25,28 @@ hr {
 	width: 33%;
 	padding: 10px;
 }
+
 h2, h3, h4, p {
 	font-weight: 500;
+}
+
+li {
+	list-style-type: none;
+}
+
+.rectangle {
+	width: 75px;
+    height: 75px;
+}
+
+.blue {
+	background: #02b3e4;
+}
+
+.black {
+	background: #2d3c49;
+}
+
+.grey {
+	background: #7d97ad;
 }
