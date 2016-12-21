@@ -5,13 +5,13 @@ body {
 
 hr {
     border: none;
-    height: 3px;
+    height: 0.2085vw;
     background-color: #999999;
 }
 
 .title-logo {
-	width: 110px;
-	margin-top: 20px;
+	width: 7.64vw;
+	margin-top: 1.39vw;
 }
 
 
@@ -23,10 +23,10 @@ hr {
 
 .project {
 	width: 33%;
-	padding: 10px;
+	padding: 0.69vw;
 }
 
-h2, h3, h4, p {
+h1, h2, h3, h4, p {
 	font-weight: 500;
 }
 
@@ -35,8 +35,8 @@ li {
 }
 
 .rectangle {
-	width: 75px;
-    height: 75px;
+	width: 5.2125vw;
+    height: 5.2125vw;
 }
 
 .blue {
