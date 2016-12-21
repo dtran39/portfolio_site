@@ -9,6 +9,14 @@ hr {
     background-color: #999999;
 }
 
+h1, h2, h3, h4, p {
+	font-weight: 500;
+}
+
+li {
+	list-style-type: none;
+}
+
 .title-logo {
 	width: 7.64vw;
 	margin-top: 1.39vw;
@@ -24,14 +32,6 @@ hr {
 .project {
 	width: 33%;
 	padding: 0.69vw;
-}
-
-h1, h2, h3, h4, p {
-	font-weight: 500;
-}
-
-li {
-	list-style-type: none;
 }
 
 .rectangle {
