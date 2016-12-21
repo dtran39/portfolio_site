@@ -50,3 +50,9 @@ li {
 .grey {
 	background: #7d97ad;
 }
+/* Media queries for mobile*/
+@media only screen and (max-width: 500px) {
+	.project > h3{
+		font-size: 3vw;
+	}
+}
